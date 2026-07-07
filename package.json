@@ -1,0 +1,15 @@
+{
+  "name": "@ai-native-solutions/postgresql-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "HTTP proxy for PostgreSQL · sovereign estate wrapper · docs: https://www.postgresql.org/docs/",
+  "main": "./server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjgant80-hub/postgresql-api.git"
+  }
+}
